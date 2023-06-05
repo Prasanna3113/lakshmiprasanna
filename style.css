@@ -1,0 +1,23 @@
+
+body{
+    font-family: 'Rye', cursive;
+    font-size: 30px;
+    text-align: left;
+    background-image: url(https://img.freepik.com/free-photo/sparkle-dried-flower-background-image_53876-102566.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(141, 66, 66);
+}
+h2{
+    padding-left: 30px;
+}
+img{
+    padding: 30px;
+    border-color: rgb(130, 75, 75);
+    border-style: double;
+}
+#images{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
